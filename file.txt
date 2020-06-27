@@ -1,1 +1,2 @@
 This is file 2 
+Now this file is in remote repo
